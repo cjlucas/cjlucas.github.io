@@ -1,0 +1,44 @@
+projects:
+  - name: rtorrent-python
+    github: https://github.com/cjlucas/rtorrent-python
+    description: A simple programatic **Python** interface to the RTorrent torrent client.
+
+  - name: ruby-alfredlite
+    github: https://github.com/cjlucas/ruby-alfredlite
+    description: A lightwight framework for creating [Alfred](http://alfredapp.com) workflows in **Ruby**. Designed for extensibility and speed.
+
+  - name: tower-alfred-workflow
+    github: https://github.com/cjlucas/tower-alfred-workflow
+    description: An [Alfred](http://alfredapp.com) workflow that provides simple access to git repositories in [Tower](http://www.git-tower.com/). People seem to like it.
+
+  - name: ruby-easytag
+    github: https://github.com/cjlucas/ruby-easytag
+    description: An abstract interface for the TagLib audio tagging library. Written in **Ruby**. It was designed to unify TagLib's fragmented interfaces.
+
+  - name: CJAudioPlayer
+    github: https://github.com/cjlucas/CJAudioPlayer
+    description: An audio player for iOS and OS X. It handles playlist management as well as automatically caching HTTP data sources. Written in **Objective-C**.
+
+  - name: Boombox
+    github: https://github.com/cjlucas/Boombox-android
+    description: An audio player for Android. It includes an API for custom data providers which allows the a ability to provide data from sources beyond just HTTP and local access.
+
+  - name: Kanihi
+    github: https://github.com/cjlucas/kanihi-server
+    description: An end-to-end solution for streaming your music library from anywhere. It includes a [server](https://github.com/cjlucas/kanihi-server) component, using **Ruby on Rails**. Clients are available for [iOS](https://github.com/cjlucas/kanihi-client-ios) and [Android](https://github.com/cjlucas/kanihi-android). This project is a work in progress.
+
+  - name: TheTVDB Feeder
+    link: http://thetvdb-feeder.herokuapp.com
+    description: A **Ruby on Rails** web service that turns a list of your favorite tv shows into iCal and RSS feeds. Hosted and managed on **Heroku**.
+
+  - name: A Yet-to-be-named Webvideo Podcaster Service
+    github: https://github.com/cjlucas/untitled-webvideo-podcaster-app
+    description: A **Node.js** service utilizing the Sails framework designed to turn your favorite YouTube channels into RSS feeds suitible for your favorite podcast client. Currently a work in progress.
+
+  - name: ruby-net-nntpclient
+    github: https://github.com/cjlucas/ruby-net-nntpclient
+    description: An NNTP client library written in **Ruby**.
+
+  - name: Yet Another YEnc Encoder
+    github: https://github.com/cjlucas/ruby-yayenc
+    description: A 100% pure **Ruby** YEnc encoder/decoder solution.
