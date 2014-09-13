@@ -3,7 +3,8 @@ layout: default
 title: Portfolio
 ---
 
-{% for blah in site.data.projects.projects %}
-<p>{{ blah.name }}</p>
-<p>{% markdown %}{{ blah.description }}{% endmarkdown %}</p>
+{% for project in site.projects %}
+	<p><a href="{{ project.github }}">{{ project.title }}</a></p>
+	<p>{{ project.content}}</p>
+
 {% endfor %}
