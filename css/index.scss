@@ -5,28 +5,46 @@ $primaryColor: green;
 $accentColor: #ddd;
 $bgColor: lighten($accentColor, 50%);
 
-#header {
+header {
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 10px;
 	padding-bottom: 10px;
+}
+
+#logo {
+	display: inline-block;
+	width: 49%;
+	font-size: inherit;
 	font-size: 2.0em;
 }
 
-#header>a {
-	color: $accentColor;
+#logo span {
 	font-weight: 300;
+	color: $accentColor;
 }
 
-#header>a>span:first-child {
+#logo>a>span:first-child {
 	color: $primaryColor;
+}
+
+#links {
+	display: inline-block;;
+	text-align: right;
+	width: 49%;
+}
+
+#links a {
+	padding-left: 4px;
+	padding-right: 4px;
+	font-weight: 300;
 }
 
 body {
 	background-color: $bgColor;
+	margin-bottom: 40px;
 	font-size: .85em;
 	font-family: 'Lato', sans-serif;
-	margin-top: 20px;
 }
 
 #content {
