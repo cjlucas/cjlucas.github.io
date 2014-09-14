@@ -22,6 +22,10 @@ A programming position that utilizes my diverse expertise to help create a cohes
   * Cashier
   * Store Layout Planner
 
+* Blockbuster Video, Phoenix, Arizona - 2011-2012
+  * Cashier
+  * Stock Clerk
+
 ## Skills ##
 
 * Linux Operating System Administration (9 years)

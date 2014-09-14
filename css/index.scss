@@ -1,9 +1,9 @@
 ---
 ---
 
-$primaryColor: green;
+$primaryColor: #6CC758;
 $accentColor: #ddd;
-$bgColor: lighten($accentColor, 50%);
+$bgColor: white;
 
 header {
 	padding-left: 20px;
@@ -54,7 +54,7 @@ body {
 
 h1 {
 	text-align: center;
-	color: green;
+	color: $primaryColor;
 	padding-bottom: 4px;
 	width: 60%;
 	// border-bottom: 1px solid black;
