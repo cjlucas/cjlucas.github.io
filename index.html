@@ -4,7 +4,9 @@ title: Portfolio
 ---
 
 {% for project in site.projects %}
-	<p><a href="{{ project.github }}">{{ project.title }}</a></p>
-	<p>{{ project.content}}</p>
+	<div class="project-container"><a class="project-link" href="{{ project.link }}">{{ project.title }}</a>
+
+	{{ project.content }}
+	</div>
 
 {% endfor %}
