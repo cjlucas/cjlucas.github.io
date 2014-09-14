@@ -46,11 +46,14 @@ A programming position that utilizes my diverse expertise to help create a cohes
 
 * NodeJS Development (1 year)
 
+* Believer in Agile and Test Driven Development
+
 * Experience with various database technologies
   * MySQL
   * SQLite
   * PostgreSQL
   * Core Data
+  * Redis
   * MongoDB
 
 * Experience with various web services
